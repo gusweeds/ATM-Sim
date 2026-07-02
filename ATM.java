@@ -1,11 +1,4 @@
-/*
-IT 205 Intro to Object Oriented Programming 
-Programmer: William Wedertz 
-Date: 11/10/2025
-NetBeans IDE 27
 
-This is my own program
- */
 package atmsim;
 
 import java.util.Scanner;
