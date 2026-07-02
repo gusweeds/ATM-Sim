@@ -1,4 +1,3 @@
-
 package atmsim;
 
 import java.util.Scanner;
